@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshukoul&label=Profile%20views&color=0e75b6&style=flat" alt="himanshukoul" /> </p>
 
-- 🔭 I’m currently working on **ML , CNN , OpenCV**
+- 🔭 I’m currently working on **Computer Vision using Deep Learning**
 
 - 🌱 I’m currently learning **NLP , Neural Networks**
 
